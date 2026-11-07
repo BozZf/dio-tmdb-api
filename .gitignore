@@ -199,3 +199,13 @@ README.html
 *.iml
 .idea
 .exercism
+
+# Credenciais e configuração local
+.env
+.env.*
+.envrc
+application-local.*
+*.key
+*.pem
+*.p12
+*.jks
